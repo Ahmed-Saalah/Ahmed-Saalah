@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">I'm a dedicated Computer Science student with a passion for competitive programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-saalah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-saalah" /> </p>
 
