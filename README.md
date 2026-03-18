@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
-<h3 align="center">Senior Computer Science student with a strong foundation in software engineering and problem solving. Currently a Software Engineer at Iken Technology and former Software Engineer Intern at Microsoft, I am passionate about building scalable solutions and continuously expanding my skills through real-world projects, technical challenges, and lifelong learning.</h3>
+<h3 align="center">I am a senior computer science student, currently working as a Software Engineer at Iken Technology and previously a Software Engineer Intern at Microsoft. My primary focus lies in backend engineering and distributed systems, but I'm increasingly fascinated by the infrastructure required to support large-scale AI systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
